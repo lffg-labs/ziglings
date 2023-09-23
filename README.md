@@ -1,30 +1,28 @@
 # Ziglings
 
-# ⚠️ Ziglings has moved from GitHub to Codeberg!
-
 My solutions for the Ziglings problem set.
 
 This is a fork of <https://codeberg.org/ziglings/exercises>.
 
 ---
 
-- [ ] 001_hello.zig
-- [ ] 002_std.zig
-- [ ] 003_assignment.zig
-- [ ] 004_arrays.zig
-- [ ] 005_arrays2.zig
-- [ ] 006_strings.zig
-- [ ] 007_strings2.zig
-- [ ] 008_quiz.zig
-- [ ] 009_if.zig
-- [ ] 010_if2.zig
-- [ ] 011_while.zig
-- [ ] 012_while2.zig
-- [ ] 013_while3.zig
-- [ ] 014_while4.zig
-- [ ] 015_for.zig
-- [ ] 016_for2.zig
-- [ ] 017_quiz2.zig
+- [x] 001_hello.zig
+- [x] 002_std.zig
+- [x] 003_assignment.zig
+- [x] 004_arrays.zig
+- [x] 005_arrays2.zig
+- [x] 006_strings.zig
+- [x] 007_strings2.zig
+- [x] 008_quiz.zig
+- [x] 009_if.zig
+- [x] 010_if2.zig
+- [x] 011_while.zig
+- [x] 012_while2.zig
+- [x] 013_while3.zig
+- [x] 014_while4.zig
+- [x] 015_for.zig
+- [x] 016_for2.zig
+- [x] 017_quiz2.zig
 - [ ] 018_functions.zig
 - [ ] 019_functions2.zig
 - [ ] 020_quiz3.zig
